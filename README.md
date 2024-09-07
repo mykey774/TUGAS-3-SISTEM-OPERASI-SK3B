@@ -19,4 +19,9 @@
 
 2. Buatlah sub direktori januari, februari dan maret sekaligus pada direktori Latihan5
 
-   -Untuk mengerjakan nomor 2, pertama-tama kita buat dulu direktori utama yang menampung direktori Januari, Februari dan Maret yang kita beri nama Latihan5. Untuk membuat direktori kita gunakan command "mkdir Latihan5" setelah itu masuk ke direktori nya dengan menggunakan command "cd \Latihan5"
+   -Untuk mengerjakan nomor 2, pertama-tama kita buat dulu direktori utama yang menampung direktori Januari, Februari dan Maret yang kita beri nama Latihan5. Untuk membuat direktori kita gunakan command "mkdir Latihan5" setelah itu masuk ke direktori nya dengan menggunakan command "cd \Latihan5", kemudian kita buat direktori januari, februari dan maret nya menggunakan command yang sama yaitu "mkdir Januari && mkdir Februari && mkdir Maret"
+
+   ![c2](https://github.com/user-attachments/assets/1e329426-56fe-4c86-b5e5-a9e7d1a00620)
+
+
+
