@@ -11,11 +11,11 @@
 
    -Lihat peralatan I/O menggunakan command prompt "ls -l /dev | ^c"
 
-
+![c1](https://github.com/user-attachments/assets/d8bd06c5-8983-42bc-89fb-1a8048c1ac24)
 
    -Lihat character device menggunakan command prompt "ls -l /dev/tty0" untuk command prompt ini tidak harus diakhiri tty0, bisa juga pakai zero atau yang lain, yang jelas I/O yang ingin dilihat character device nya
 
-
+![Screenshot 2024-09-07 115336](https://github.com/user-attachments/assets/40ae0fa7-310e-4823-9fc1-0441f58374e9)
 
 2. Buatlah sub direktori januari, februari dan maret sekaligus pada direktori Latihan5
 
