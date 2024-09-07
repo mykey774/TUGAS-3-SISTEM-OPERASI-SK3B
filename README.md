@@ -23,5 +23,11 @@
 
    ![c2](https://github.com/user-attachments/assets/1e329426-56fe-4c86-b5e5-a9e7d1a00620)
 
+3. Buatlah file dataku yang berisi nama, nim dan alamat anda pada sub direktori januari dan copy-kan file tersebut ke sub direktori februari dan maret
+
+   -Setelah kita sudah membuat direktori nya, sekarang kita membuat sebuah file yang berisi nama, nim, dan alamat tapi karena saya keliru membaca soal saya malah membuat file dengan isi nama, nim, kelas, dan alamat. Baiklah untuk membuat file kita masuk dulu ke direktori Januari setelah itu kita gunakan command "touch Dataku.txt" setelah itu kita gunakan command prompt "nano Dataku.txt" note : jika nano tidak bisa digunakan, cobalah untuk menginstall nano terlebih dahulu menggunakan command "sudo apt install nano
+" Setelah mengetik command tersebut kita akan masuk ke tampilan/isi dari file Dataku.txt itu jadi langkah selanjutnya adalah mengisi file tersebut dengan nama, nim, dan alamat (kelas tidak perlu diisi) Setelah mengisi ketik ctrl + x kemudian nano akan memberikan peringatan atau tulisan apakah isi file nya akan disave atau tidak, jika ada ketik Y kemudian enter dan jangan lupa cek isi nya dengan command cat Dataku.txt. Kita sudah berhasil membuat file Dataku.txt yang berisi nama, nim, dan kelas, sekarang kita akan mengcopy file Dataku.txt di direktori Januari ke direktori Februari dan Maret caranya dengan menggunakan command
+
+sudo apt install nano
 
 
