@@ -9,7 +9,7 @@
 
 1. Lihat peralatan I/O, character device, yang ada pada system komputer
 
-   -Lihat peralatan I/O menggunakan command prompt "ls -l /dev | ^c"
+   -Lihat peralatan I/O menggunakan command prompt "ls -l /dev | grep ^c"
 
 ![c1](https://github.com/user-attachments/assets/d8bd06c5-8983-42bc-89fb-1a8048c1ac24)
 
